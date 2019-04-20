@@ -19,9 +19,9 @@ reward or punish you
 
 modules:
 -------------
-numpy explore
-matplotlib explore
-pandas
-webscraping
- - Beautifulsoap
+ - numpy explore
+ - matplotlib explore
+ - pandas
+ - webscraping
+   - Beautifulsoap
  
